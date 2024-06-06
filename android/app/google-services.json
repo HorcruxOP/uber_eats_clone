@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012255979587",
+    "project_id": "uber-eats-clone-1f233",
+    "storage_bucket": "uber-eats-clone-1f233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012255979587:android:4a100378d0c740776fbcf6",
+        "android_client_info": {
+          "package_name": "com.example.uber_eats_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBSWRmEmIDTuBjEru0MLv3uwMdSarQvP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
